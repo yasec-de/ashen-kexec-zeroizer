@@ -1,0 +1,4 @@
+*.o
+*.elf
+/Image
+/test/secret-selftest
